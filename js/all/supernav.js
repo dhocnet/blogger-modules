@@ -27,4 +27,3 @@ function SuperNavBar(daftarSub){
   sisipBody.prepend(divKontainer);
 }
 
-SuperNavBar(DaftarSubDomain);
