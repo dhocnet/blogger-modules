@@ -1,6 +1,6 @@
 # BAGAIMANA MENGGUNAKANNYA?
 
-Copy paste baris ini dibawah `&lt;head&gt;` sebelum `&lt;/head&gt;`
+Copy paste baris ini dibawah `<head>` sebelum `</head>`
 
 <code>
 &lt;b:if cond="data:view.IsHomepage"&gt;
