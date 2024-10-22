@@ -3,7 +3,7 @@
 Copy paste baris ini dibawah `<head>` sebelum `</head>`
 
 <code>
-&gt;b:if cond="data:view.IsHomepage"&lt;
-  &gt;link href="" rel="stylesheet" /&lt;
-&gt;/b:if&lt;
+&lt;b:if cond="data:view.IsHomepage"&gt;
+  &lt;link href="" rel="stylesheet" /&gt;
+&lt;/b:if&gt;
 </code>
